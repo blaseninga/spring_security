@@ -1,6 +1,5 @@
-package com.zaurtregulov.spring.security.configuration;
+package com.spring.security.configuration;
 
-import com.zaurtregulov.spring.security.configuration.MyConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class MyWebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
